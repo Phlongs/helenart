@@ -49,6 +49,9 @@ a:focus {
   text-decoration: none;
   color: #1d9b6c;
 }
+.no-padding {
+  padding: 0;
+}
 .light {
   font-weight: 400;
 }
@@ -239,6 +242,7 @@ a:focus {
   max-width: 650px;
   margin: 0 auto;
 }
+
 .portfolio-box .portfolio-box-caption {
   color: white;
   opacity: .5;
